@@ -1,0 +1,104 @@
+* {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0%;
+}
+
+button {
+  margin: 20px;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+button:hover {
+  border: 1rem;
+  border-color: red;
+  background-color: #0748a7;
+  color: #ffff;
+}
+
+.title {
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+nav {
+  background-color: #0748a7;
+  padding-bottom: 2rem;
+  color: #ffff;
+}
+
+ul {
+  text-align: end;
+  list-style: none;
+  padding-top: 2.5rem;
+  text-decoration: none;
+}
+
+ul li {
+  display: inline;
+  padding-right: 3rem;
+  text-decoration: none;
+}
+
+ul li a {
+ text-decoration: none;
+ color: #ffff;
+}
+
+.logo {
+  position: absolute;
+  padding: 2rem;
+}
+
+.hero img {
+  width: 70%;
+  padding-top: 3rem;
+  padding-left: 30rem;
+}
+
+.hero {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero_left {
+  display: flex;
+  flex-basis: 40%;
+  align-items: center;
+}
+
+.hero_right {
+  flex-basis: 60%;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+}
+
+.container img {
+  padding: 30px;
+  border-radius: 80px;
+  width: 500px;
+}
+
+.content h1 {
+  text-align: center;
+  margin-top: 85px;
+}
+
+footer {
+  background-color: #0748a7;
+  padding: 10px;
+  padding-left: 100px;
+  color: white;
+}

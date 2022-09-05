@@ -1,0 +1,88 @@
+.form {
+  margin-right: 1rem;
+  position: relative;
+  width: 300px;
+}
+
+.search-course-form {
+  margin-right: 1rem;
+  position: relative;
+  width: 300px;
+}
+
+.left {
+  padding-top: 10rem;
+  padding-left: 16rem;
+  padding-right: 11rem;
+}
+
+.learn {
+  background-color: #2d3e50;
+  color: #ffff;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.dicoding-partners .container-fluid {
+  max-width: 1440px;
+}
+
+.program {
+  background-color: #f2f2f2;
+}
+
+.abu {
+  background-color: #2d3e50;
+  color: #f2f2f2;
+  border-radius: 0px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: black;
+}
+
+.ul li a {
+  color: black;
+}
+
+ul li a:hover{
+  background-color: #f2f2f2;
+  padding: 15px 100px;
+  border-radius: 10px;
+
+}
+
+
+.masuk {
+  border: solid 1px  #2d3e50 ;
+  color:  #2d3e50;
+}
+
+.masuk:hover {
+  background-color:  #2d3e50;
+  color: #ffff;
+}
+
+.daftar {
+  background-color:  #2d3e50;
+  color: #ffff;
+}
+
+.daftar:hover {
+  background-color: #ffff;
+  color: black;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  .hero-v {
+    padding: 0 0;
+    text-align: center;
+    display: inline;
+  }
+
+}
